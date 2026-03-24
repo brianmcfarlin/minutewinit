@@ -1,0 +1,10 @@
+```tsx
+export default function Home() {
+return (
+<div style={{padding: "40px", fontFamily: "sans-serif", textAlign: "center"}}>
+<h1>MinuteWinit v2</h1>
+<p>This is your live site. It works.</p>
+<p>We'll add the full game in the next step.</p>
+</div>
+);
+}
